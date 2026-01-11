@@ -1,0 +1,5 @@
+{
+  "name": "VibePaper AI",
+  "description": "A high-end mobile-first wallpaper generator that crafts personalized backgrounds based on your aesthetic vibe using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
